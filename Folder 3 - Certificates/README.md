@@ -40,7 +40,7 @@
 
 📁 **Certificate File**
 
-[View Certificate 3 PDF](Test%20Automation%20With%20Playwright%20(Python)%20&%20Robot%20Framework.pdf)
+[View Certificate 3 PDF](https://github.com/ShreyaRoy19/Wipro-python-automation/blob/main/Folder%203%20-%20Certificates/Test%20Automation%20With%20Playwright%20(Python)%20%26%20Robot%20Framework_3.pdf)
 
 🔗 **Coursera Verification**
 
