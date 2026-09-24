@@ -10,7 +10,7 @@ Locate the username field using ID, password field using Name, and a link using 
 
 ### 📂 Project Files
 
-[View Part 1 Project Files]()
+[View Part 1 Project Files](https://github.com/ShreyaRoy19/Wipro-python-automation/tree/main/Folder%201%20-%20Initial%20Lab%20Work%20and%20Video%20Demonstrations/Class_Assignment-1.3/part-1)
 
 ---
 
@@ -24,7 +24,7 @@ Find all links on a webpage and print their text.
 
 ### 📂 Project Files
 
-[View Part 2 Project Files]()
+[View Part 2 Project Files](https://github.com/ShreyaRoy19/Wipro-python-automation/tree/main/Folder%201%20-%20Initial%20Lab%20Work%20and%20Video%20Demonstrations/Class_Assignment-1.3/part-2)
 
 ---
 
@@ -38,7 +38,7 @@ Use a CSS wildcard selector to locate elements whose ID starts with `user_`.
 
 ### 📂 Project Files
 
-[View Assignment 3 Project Files]()
+[View Assignment 3 Project Files](https://github.com/ShreyaRoy19/Wipro-python-automation/tree/main/Folder%201%20-%20Initial%20Lab%20Work%20and%20Video%20Demonstrations/Class_Assignment-1.3/part-3)
 
 ---
 
@@ -52,19 +52,10 @@ Locate a button inside a specific `<div>` using a CSS child selector.
 
 ### 📂 Project Files
 
-[View Assignment 4 Project Files]()
+[View Assignment 4 Project Files](https://github.com/ShreyaRoy19/Wipro-python-automation/tree/main/Folder%201%20-%20Initial%20Lab%20Work%20and%20Video%20Demonstrations/Class_Assignment-1.3/part-4)
 
 ### 🎥 Video Demonstration
 
 [Watch Assignment 4 Demonstration](https://drive.google.com/file/d/1Eaiyp-FCIZhrc6GLkCUYtIAldx4PzY_6/view?usp=sharing)
 
 
-
-## 👥 Group Members
-
- Name | Enrollment Number | Institution |
-|---|:---:|---|
- **Sandipan Jha** | 12023002022006 | IEM, NEWTOWN |
- **Saptarshi Mandal** | 12023002022009 | IEM, NEWTOWN |
- **Shreya Roy** | 12023002022013 | IEM, NEWTOWN |
- **Abhisek Dastidar** | 12023002022007 | IEM, NEWTOWN |
