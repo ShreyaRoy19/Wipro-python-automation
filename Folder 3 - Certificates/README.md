@@ -12,7 +12,7 @@
 
 📁 **Certificate File**
 
-[View Certificate 1 PDF](Python%20Automation_1.pdf)
+[View Certificate 1 PDF](https://github.com/ShreyaRoy19/Wipro-python-automation/blob/main/Folder%203%20-%20Certificates/Python%20Automation_1.pdf)
 
 🔗 **Coursera Verification**
 
