@@ -1,5 +1,11 @@
 # Folder 2: Enterprise-Grade E-Commerce Automated Testing Framework
 
+**Name:** Shreya Roy
+**Enrollment No:** 12023002022013
+**College Name:** IEM NEWTOWN
+
+---
+
 An automated end-to-end testing framework built using **Python**, **Selenium**, and **PyTest** following industry-standard software engineering design principles. This project automates core e-commerce workflows on the TutorialsNinja demo application.
 
 ---
@@ -34,10 +40,13 @@ Folder 2 - Capstone Project/
     ├── source_pages/             # Page Object Model classes (BaseActions, LoginScreen, SearchScreen)
     ├── test_scripts/             # End-to-end test execution suites
     ├── utils/                    # Helper utilities and data parsers
-    │
+    ├── README.md                 # Framework level documentation
     ├── conftest.py               # PyTest fixtures, hooks, and configuration setup
-    ├── requirements.txt          # Python package dependencies
-    └── README.md                 # Framework level documentation
+    ├── pytest.ini                # PyTest configurations, custom markers, and default execution flags
+    ├── report_capstone_project(1).pdf # Comprehensive document detailing the framework and test results
+    └── requirements.txt          # Python package dependencies
+    
+
 ```
 ## ⚙️ Prerequisites & Setup
 
