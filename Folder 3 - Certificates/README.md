@@ -1,7 +1,9 @@
 # Folder 3 - Certificates
 
 **Name:** Shreya Roy
+
 **Enrollment No:** 12023002022013
+
 **College Name:** IEM,NEWTOWN
 
 ---
@@ -45,3 +47,9 @@
 🔗 **Coursera Verification**
 
 [Verify Certificate 3 on Coursera](https://coursera.org/share/eb737918ae5f67bd649aff9ec71ed5a0)
+
+
+## Additional Certificates
+
+* **Introduction to Python and Basic Selenium Setup:** [https://coursera.org/share/47a98dc20f967cea42b17f95c70a51e8]
+* **Introduction to Selenium:** [https://coursera.org/share/76a28090c277e1d4808963b3f8ba336b]
